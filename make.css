@@ -116,6 +116,7 @@ nav ul .nm {
     font-weight: 600;
     line-height: 23px;
     letter-spacing: 0%;
+    scroll-behavior: smooth;
 }
 
 /* Front style end here */
@@ -425,7 +426,7 @@ a {
     position: static;
     width: 548px;
     height: 57px;
-    border: none;
+    border-color: none;
 }
 
 .s-btn {
