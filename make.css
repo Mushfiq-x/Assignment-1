@@ -71,7 +71,7 @@ nav ul .nm {
 /* Front Style Start */
 
 .front {
-    background-image: url("/assets/Hero-bg.png");
+    background-image: url("assets/Hero-bg.png");
     background-size: 100% 650px;
     display: flex;
     flex-direction: column;
@@ -378,7 +378,7 @@ a {
 /* support section starts here */
 
 .support {
-    background-image: url("/assets/handshake.jpg");
+    background-image: url("assets/handshake.jpg");
     margin-top: 550px;
     height: 315px;
     width: auto;
